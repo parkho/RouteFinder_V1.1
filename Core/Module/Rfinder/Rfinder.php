@@ -6,7 +6,7 @@ class Rfinder extends CodonModule
 	public function index() 
 	   {
             
-            $this->show('/rfind/Rfinder.tpl');
+            $this->show('/rfind/Rfinder.php');
 			
             
         }
