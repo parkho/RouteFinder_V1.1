@@ -1,4 +1,6 @@
 RouteFinder_V1.0
+
+Now compatible with phpVMS 5.5x by Simpilot
 ================
 
 This one is a module for your pilots to directly search for their routes from your website rather than going to the actual website. 
